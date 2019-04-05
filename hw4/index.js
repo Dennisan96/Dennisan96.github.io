@@ -12,8 +12,7 @@ const examples = {
   'example2':
       'The rustle of a woman’s dress was heard in the next room.',
   'example3':
-      '"Not so," he answered. "Well, I know that, did I move and speak in your
-London, none there are who would not know me for a stranger.',
+      'Buda-Pesth seems a wonderful place.',
   'example4':
       'Mr. Bingley was good-looking and gentlemanlike; he had a pleasant countenance, and easy, unaffected manners.'
       
