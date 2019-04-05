@@ -8,11 +8,15 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Tom went on whitewashing--paid no attention to the steamboat.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'The rustle of a woman’s dress was heard in the next room.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      '"Not so," he answered. "Well, I know that, did I move and speak in your
+London, none there are who would not know me for a stranger.',
+  'example4':
+      'Mr. Bingley was good-looking and gentlemanlike; he had a pleasant countenance, and easy, unaffected manners.'
+      
 };
 
 function status(statusText) {
